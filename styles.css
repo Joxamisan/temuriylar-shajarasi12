@@ -519,6 +519,14 @@ nav ul.menu li a.active {
     text-align: center;
 }
 button{
-    color: #358b3d;
-    background-color: antiquewhite;
+  .fixed{
+    position: fixed;
+    left: 0;
+    top: 50%;
+    padding: 10px;
+    background-color: rgb(43, 73, 226);
+    color: aliceblue;
+    border-radius: 30%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
 }
